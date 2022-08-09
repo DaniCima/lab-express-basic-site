@@ -44,3 +44,6 @@ You should go through the following steps:
 6. Polish your HTML, stylesheets and scripts.
 
 Happy coding! 💙
+
+Why does Lloy has two screens iin the terminal?
+touch . gitignore works on my terinal?
